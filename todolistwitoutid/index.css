@@ -1,0 +1,45 @@
+.left-pannel{
+    padding-top: 5%;
+    background-color: #efefef;
+    padding-left: 4%;
+    color: #333333;
+    min-height: 30rem;
+    
+}
+.right-panne{
+    background-color: #ffffff;
+    min-height: 500px;
+}
+#head{
+    color: rgb(86, 85, 85);
+}
+#taskin{
+    margin-top: 5%;
+    border: none;
+    color: rgb(86, 85, 85);
+    font-size: 50px;
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+}
+.check{
+    /* position: absolute; */
+    accent-color: white;
+    float:right;
+    margin-right: 15px;
+    align-items: center;
+}
+#close{
+    float: right;
+    align-items: center;
+    
+}
+#edit{
+    float: right;
+    margin-right: 15px;
+    align-items: center;
+}
+.an{
+    text-decoration: line-through;
+}
