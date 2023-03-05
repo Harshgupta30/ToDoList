@@ -1,0 +1,38 @@
+#main{
+    /* margin-top: 4em; */
+    min-height: 100vh;
+    background-color: #bebebe;
+    padding: 2em;
+}
+#write{
+    /* margin-top: 4em; */
+    min-height: 100vh;
+    background-color:white;
+    padding: 2em;
+    
+}
+#text{
+    font-size: 2em;
+    font-weight: bold;
+    outline:none;
+    height:100%;
+    width: 100%;
+}
+.tasks{
+    display:flex;
+    justify-content: space-between;
+}
+.icon{
+    padding: 10px;
+    color: black;
+}
+.del{
+    text-decoration: line-through;
+}
+.undel{
+    text-decoration: none;
+}
+.bx{
+    accent-color:white;
+    
+}
